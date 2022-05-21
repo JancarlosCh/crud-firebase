@@ -1,11 +1,11 @@
 {
-  "main.js": "/JancarlosCh/crud-firebase/static/js/main.b5b08cfb.chunk.js",
-  "main.js.map": "/JancarlosCh/crud-firebase/static/js/main.b5b08cfb.chunk.js.map",
-  "static/js/1.48c4273c.chunk.js": "/JancarlosCh/crud-firebase/static/js/1.48c4273c.chunk.js",
-  "static/js/1.48c4273c.chunk.js.map": "/JancarlosCh/crud-firebase/static/js/1.48c4273c.chunk.js.map",
-  "runtime~main.js": "/JancarlosCh/crud-firebase/static/js/runtime~main.d6b69f97.js",
-  "runtime~main.js.map": "/JancarlosCh/crud-firebase/static/js/runtime~main.d6b69f97.js.map",
-  "index.html": "/JancarlosCh/crud-firebase/index.html",
-  "precache-manifest.031bc1ce6dd3f239a991d8897980eaa5.js": "/JancarlosCh/crud-firebase/precache-manifest.031bc1ce6dd3f239a991d8897980eaa5.js",
-  "service-worker.js": "/JancarlosCh/crud-firebase/service-worker.js"
+  "main.js": "/crud-firebase/static/js/main.b5b08cfb.chunk.js",
+  "main.js.map": "/crud-firebase/static/js/main.b5b08cfb.chunk.js.map",
+  "static/js/1.243630fe.chunk.js": "/crud-firebase/static/js/1.243630fe.chunk.js",
+  "static/js/1.243630fe.chunk.js.map": "/crud-firebase/static/js/1.243630fe.chunk.js.map",
+  "runtime~main.js": "/crud-firebase/static/js/runtime~main.07476ee5.js",
+  "runtime~main.js.map": "/crud-firebase/static/js/runtime~main.07476ee5.js.map",
+  "index.html": "/crud-firebase/index.html",
+  "precache-manifest.bdc724fab1c8c73fc2f6a6be19a9a1ff.js": "/crud-firebase/precache-manifest.bdc724fab1c8c73fc2f6a6be19a9a1ff.js",
+  "service-worker.js": "/crud-firebase/service-worker.js"
 }

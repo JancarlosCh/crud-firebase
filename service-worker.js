@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/JancarlosCh/crud-firebase/precache-manifest.031bc1ce6dd3f239a991d8897980eaa5.js"
+  "/crud-firebase/precache-manifest.bdc724fab1c8c73fc2f6a6be19a9a1ff.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/JancarlosCh/crud-firebase/index.html", {
+workbox.routing.registerNavigationRoute("/crud-firebase/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
