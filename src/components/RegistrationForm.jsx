@@ -47,7 +47,7 @@ const RegistrationForm = ({
         setUserData({ firstName: "", lastName: "" });
         inputRefs[0].current.value = "";
         inputRefs[1].current.value = "";
-        alert("Usuario actualziado correctamente");
+        alert("Usuario actualizado correctamente");
         setRegisterMode(true);
       } else {
         alert("Solo se admiten cadenas de texto");
